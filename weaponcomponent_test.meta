@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CWeaponComponentInfoBlob>
+  <Infos>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_RIFLE_SPRINGFIELD_GRIP</Name>
+      <UnlockHash />
+      <AttachBone />
+      <AccuracyModifier value="1.000000" />
+      <CameraFovModifier value="1.000000" />
+      <DamageModifier value="1.000000" />
+      <DegradationModifier value="1.000000" />
+      <FireRateModifier value="3.500000" />
+      <VfxOpacityModifier value="1.000000" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_RIFLE_SPRINGFIELD_GRIP_IRONWOOD</Name>
+      <UnlockHash />
+      <AttachBone />
+      <AccuracyModifier value="1.000000" />
+      <CameraFovModifier value="1.000000" />
+      <DamageModifier value="1.000000" />
+      <DegradationModifier value="1.000000" />
+      <FireRateModifier value="3.500000" />
+      <VfxOpacityModifier value="1.000000" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_RIFLE_SPRINGFIELD_GRIP_ENGRAVED</Name>
+      <UnlockHash />
+      <AttachBone />
+      <AccuracyModifier value="1.000000" />
+      <CameraFovModifier value="1.000000" />
+      <DamageModifier value="1.000000" />
+      <DegradationModifier value="1.000000" />
+      <FireRateModifier value="3.500000" />
+      <VfxOpacityModifier value="1.000000" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_RIFLE_SPRINGFIELD_SIGHT_NARROW</Name>
+      <UnlockHash />
+      <AttachBone />
+      <AccuracyModifier value="1.000000" />
+      <CameraFovModifier value="1.000000" />
+      <DamageModifier value="1.000000" />
+      <DegradationModifier value="1.000000" />
+      <FireRateModifier value="3.500000" />
+      <VfxOpacityModifier value="1.000000" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_RIFLE_SPRINGFIELD_SIGHT_WIDE</Name>
+      <UnlockHash />
+      <AttachBone />
+      <AccuracyModifier value="1.000000" />
+      <CameraFovModifier value="0.950000" />
+      <DamageModifier value="1.000000" />
+      <DegradationModifier value="1.000000" />
+      <FireRateModifier value="3.500000" />
+      <VfxOpacityModifier value="1.000000" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_RIFLE_SPRINGFIELD_WRAP1</Name>
+      <UnlockHash />
+      <AttachBone />
+      <AccuracyModifier value="1.000000" />
+      <CameraFovModifier value="1.000000" />
+      <DamageModifier value="1.000000" />
+      <DegradationModifier value="0.900000" />
+      <FireRateModifier value="3.500000" />
+      <VfxOpacityModifier value="1.000000" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_RIFLE_SPRINGFIELD_WRAP2</Name>
+      <UnlockHash />
+      <AttachBone />
+      <AccuracyModifier value="1.000000" />
+      <CameraFovModifier value="1.000000" />
+      <DamageModifier value="1.000000" />
+      <DegradationModifier value="0.900000" />
+      <FireRateModifier value="3.500000" />
+      <VfxOpacityModifier value="1.000000" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_RIFLE_SPRINGFIELD_WRAP3</Name>
+      <UnlockHash />
+      <AttachBone />
+      <AccuracyModifier value="1.000000" />
+      <CameraFovModifier value="1.000000" />
+      <DamageModifier value="1.000000" />
+      <DegradationModifier value="0.900000" />
+      <FireRateModifier value="3.500000" />
+      <VfxOpacityModifier value="1.000000" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_RIFLE_SPRINGFIELD_WRAP4</Name>
+      <UnlockHash />
+      <AttachBone />
+      <AccuracyModifier value="1.000000" />
+      <CameraFovModifier value="1.000000" />
+      <DamageModifier value="1.000000" />
+      <DegradationModifier value="0.900000" />
+      <FireRateModifier value="3.500000" />
+      <VfxOpacityModifier value="1.000000" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_RIFLE_SPRINGFIELD_WRAP5</Name>
+      <UnlockHash />
+      <AttachBone />
+      <AccuracyModifier value="1.000000" />
+      <CameraFovModifier value="1.000000" />
+      <DamageModifier value="1.000000" />
+      <DegradationModifier value="0.900000" />
+      <FireRateModifier value="3.500000" />
+      <VfxOpacityModifier value="1.000000" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+    </Item>
+    <Item type="CWeaponComponentInfo">
+      <Name>COMPONENT_RIFLE_SPRINGFIELD_WRAP6</Name>
+      <UnlockHash />
+      <AttachBone />
+      <AccuracyModifier value="1.000000" />
+      <CameraFovModifier value="1.000000" />
+      <DamageModifier value="1.000000" />
+      <DegradationModifier value="0.900000" />
+      <FireRateModifier value="3.500000" />
+      <VfxOpacityModifier value="1.000000" />
+      <bShownOnWheel value="true" />
+      <CreateObject value="true" />
+    </Item>
+  </Infos>
+</CWeaponComponentInfoBlob>

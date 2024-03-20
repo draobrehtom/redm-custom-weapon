@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- WEAPONINFO_FILE_PATCH -->
+<!-- Required root tag, cab be any name -->
+<sss> 
+
+<!-- One weapon -->
+<CWeaponInfo>
+    <Name>weapon_rifle_springfield</Name>
+
+    <!-- works -->
+     <ClipInfos itemType="dyasubaa_0xde99e9ed">
+      <Item>
+       <Type>Magazine</Type>
+       <Size value="50" />
+       <BulletsPerAnimLoop value="1" />
+      </Item>
+     </ClipInfos>
+     
+     <!-- Button R -->
+     <WeaponReload type="CWeaponReload">
+      <ReloadTime value="-1" />
+      <VehicleReloadTime value="-1" />
+      <!-- Slower reload. Default: 1.0 -->
+      <AnimReloadRate value="0.5" />
+      <SectionedReloadInfo />
+      <SectionedReloadInfoDual />
+     </WeaponReload>
+
+    <!-- Bullet speed flying. Matrix effect can be achieved :D -->
+    <Speed value="2000" />
+
+     <!-- <BatchSpread value="5" />
+     <MaxDrawingMBR value="5" /> -->
+
+    <!-- Works -->
+     <WeaponCamera type="CWeaponCamera">
+      <CameraFov value="70" /> 
+      <FirstPersonAimFovMin value="42" />
+      <FirstPersonAimFovMax value="47" />
+     </WeaponCamera>
+
+    <!-- <WeaponFlags>Gun CanFreeAim AnimReload UsableOnFoot 0x72B9E864 Vehicle ForceEjectShellAfterFiring 0x75138DBF 0x82564383 Turret</WeaponFlags>
+    <WeaponFlags>CarriedInHand, Gun, CanLockonOnFoot, CanLockonInVehicle, CanFreeAim, TwoHanded, AnimReload, UsableInCover, UsableInVehicle, UseSectionedReload, UsableOnFoot, CanPerformArrest, DontBlendFireOutro, NoWheelStats, ktvicrua_0x0497cfae, pfhtvbfa_0x72b9e864, mbpfauja_0x0f00e598, OnlyFireOneShot, CanBeFiredLikeGun, OnlyAllowFiring, Vehicle, NonViolent, AllowCloseQuarterKills, AllowMeleeIntroAnim, ManualDetonation, SuppressGunshotEvent, AllowDriverLockOnToAmbientPeds, NoAutoRunWhenFiring, UseLeftHandIkWhenAiming, ForcesActionMode, CreatesAPotentialExplosionEventWhenFired, DisableStealth, IgnoreHelmets, TorsoIKForWeaponBlock, Unarmed, nqpnchea_0x82564383, qplkduda_0xdb7546e0, izwultja_0x087a39d7, smywzqua_0xb7db72ac, ffjiviaa_0x07f0cbca, zzqbnmcc_0xbdbbc7fe, ApplyVehicleDamageToEngine, BlockAmbientIdles, DisableFPSAimForScope, AttachFPSLeftHandIKToRight, AllowMeleeBlock, SwapToUnarmedWhenOutOfThrownAmmo, PlayOutOfAmmoAnim, DamageCausesDisputes, SkipVehiclePetrolTankDamage, gisenogc_0x1fce1778, DisableCrouch, ExclusivelyHolstered, bqlkqoha_0x895400e1, CanBeOffhandCarried, jlkqscbb_0xb241c6ea, wpircgea_0x70a9b652, xjfjmwea_0x352d6203, dvrdqnda_0xe7833781, fxopleia_0xd250dfdb, DropWhenLassoed, qfgglhja_0x3a829c54, xeqcqcaa_0x2610198c, rwutmjda_0x4411da0c, CannotInstantHolster, goaxxmja_0x282cf096, wthsbaua_0x60efb98c, allphuga_0x27895875, jbuvmeua_0x5fff57f6, ymigrtqb_0xb5506e4e, cnradqeb_0xd399b030, AllowILO, MeleeSmashable, ujdyudib_0xc6ee6dee, bcoctrsb_0x42bce923, xuepsdaa_0x255dcb79, ogtjhfca_0xaf408974, Shotgun, jfgpampa_0x5cac88b8, hdlluqra_0xc2b9b746, uxzzirka_0x8bc0aa13, Torch, MeleeThrown, ueicfoqa_0xe64f69a1, CanTwirl, siqrqfna_0x140ac63f, lpqxseaa_0xa93afc4b, MetalDetector, arsrskja_0x9aa4f395, lpespypa_0x4a515b55, dnxheula_0xa02bcf5b, UnequipDuringRagdoll, uqxjyvfa_0xfc80dbfc, vwyelbca_0x81ece712</WeaponFlags>
+    -->
+
+    <!-- 
+    qgYJETA_0xB241C6EA - останавливает авто-выстрел после нажатия ЛКМ
+    itxOtFA_0x282CF096 - перемещает пистолет в левую руку
+    -->
+    <WeaponFlags>TwoHanded, AllowEarlyExitFromFireAnimAfterBulletFired, CanHipFire, CarriedInHand, Gun, AnimReload, CanFreeAim</WeaponFlags>
+    
+    <!-- Default -->
+    <WeaponHeadShotDistance>
+        <MinHeadShotDistanceAI value="1.000000" />
+        <MaxHeadShotDistanceAI value="150.000000" />
+        <MinHeadShotDistancePlayer value="0.000000" />
+        <MaxHeadShotDistancePlayer value="90.000000" />
+        <MaxHeadShotDistanceToPlayerWithScope value="1000.000000" />
+    </WeaponHeadShotDistance>
+    <WeaponDamageModifiers>
+        <PlayerDamagedByPlayerModifier value="1.000000" />
+        <PlayerDamagedByAIModifier value="1.000000" />
+        <AIDamagedByPlayerModifier value="1.000000" />
+    </WeaponDamageModifiers>
+</CWeaponInfo>
+
+<!-- Another weapon -->
+
+</sss>
